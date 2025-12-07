@@ -1,11 +1,7 @@
 #### ✨💥🌈 Complete-CSS-Basics-to-Advanced-Part-1 🌈💥✨
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2800&pause=500&color=FF00CC&center=true&vCenter=true&width=1100&lines=🎨+Master+CSS+From+Basics+to+Advanced!;🔥+50%2B+Practice+Projects+Included!;💻+Enhance+Your+Frontend+Skills!;🌟+Clean%2C+Modern%2C+Reusable+CSS+for+All!" /> 
-</p> 
-
-<p align="center"> 
-  <img src="https://i.imgur.com/lkQ9Z8F.gif" width="850" /> 
-</p> 
+</p>
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
