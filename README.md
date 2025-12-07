@@ -190,18 +190,6 @@ Prepare yourself for the most visually stunning, structured, and practically pow
 
 ---
 
-<p align="center">
-  Keep practicing 💪 and you’ll become a <b>CSS Layout Master</b> in no time! 🚀✨  
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="200"/>
-</p>
-
-🎞️✨ Animated Section Previews  
-<p align="center"> <img src="https://i.imgur.com/6o5ZUMR.gif" width="700"/> </p> 
-<p align="center"> <img src="https://i.imgur.com/n2Q2fYJ.gif" width="700"/> </p>
-
 🌈🔥 Why This Repo Is Loved
 - 💛 Beginner friendly  
 - 💚 Structured cleanly  
